@@ -1,1 +1,1 @@
-# AutoTests_PajeObject
+# AutoTests_PageObject
