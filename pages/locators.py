@@ -14,3 +14,6 @@ class ProductPageLocators():
     PRODUCT_NAME_IN_NOTICE = (By.CSS_SELECTOR, '.alert:nth-child(1) .alertinner strong')
     PRODUCT_PRICE_IN_DISCRIPTION = (By.CSS_SELECTOR, 'p.price_color')
 
+class BasePageLocators():
+    LOGIN_LINK = (By.CSS_SELECTOR, "#login_link")
+    LOGIN_LINK_INVALID = (By.CSS_SELECTOR, "#login_link_inc")
