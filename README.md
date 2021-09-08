@@ -1,1 +1,1 @@
-# AutoTests_PageObject
+# AutoTests, PageObject pattern. Final project.
